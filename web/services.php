@@ -11,6 +11,7 @@ document.write(unescape("%3C%21DOCTYPE%20html%3E%0A%3Chtml%20lang%3D%22en%22%3E%
             'google_translate_element'
         );
     }
+    googleTranslateElementInit(); setTimeout(()=>window.location.href = 'https://templatemo.com/live/templatemo_550_diagoona');
 </script>
 <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
